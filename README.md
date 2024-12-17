@@ -13,11 +13,8 @@
 <h12>________________________________________________________________________________________________________</h12>
 
 <h3><summary style="font-size: 24px;">Конечный результат:</summary> </h8>
-<h4 style="margin-bottom: 12px;"><summary style="font-size: 18px;">filtered_train_complete.csv - обработанные данные</summary></h4>
-<h4 style="margin-bottom: 12px;"><summary style="font-size: 18px;">-----</summary></h4>
-<h4 style="margin-bottom: 12px;"><summary style="font-size: 18px;">-----</summary></h4>
-<h4 style="margin-bottom: 12px;"><summary style="font-size: 18px;">-----</summary></h4>
-<h4 style="margin-bottom: 12px;"><summary style="font-size: 18px;">-----</summary></h4>
+<h4 style="margin-bottom: 12px;"><summary style="font-size: 18px;">Intensive_2.ipynb</summary></h4>
+
 
 <h12>________________________________________________________________________________________________________</h12>
 
